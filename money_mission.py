@@ -9,8 +9,8 @@ import os
 from datetime import datetime, date
 
 # ── CUSTOMIZE THESE ───────────────────────────────────────────────────────────
-GOAL = 25000                          # Your goal amount in dollars
-GOAL_DATE = date(2026, 12, 31)        # The date you want to hit your goal
+GOAL = 10000                          # Your goal amount in dollars
+GOAL_DATE = date(2027, 8, 4)        # The date you want to hit your goal
 START_DATE = date(2026, 1, 1)         # The date you started tracking
 # ─────────────────────────────────────────────────────────────────────────────
 
